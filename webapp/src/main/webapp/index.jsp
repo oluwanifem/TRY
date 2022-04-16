@@ -1,6 +1,6 @@
 <<html>
 <body>
-<h2>hello world!</h2>
+<h2>Hello word from devops class</h2>
 </body>
 </html>
   
